@@ -1,0 +1,7 @@
+C:\Users\Cavid\source\repos\DelegateHomework\DelegateHomework\bin\Debug\DelegateHomework.exe.config
+C:\Users\Cavid\source\repos\DelegateHomework\DelegateHomework\bin\Debug\DelegateHomework.exe
+C:\Users\Cavid\source\repos\DelegateHomework\DelegateHomework\bin\Debug\DelegateHomework.pdb
+C:\Users\Cavid\source\repos\DelegateHomework\DelegateHomework\obj\Debug\DelegateHomework.csprojAssemblyReference.cache
+C:\Users\Cavid\source\repos\DelegateHomework\DelegateHomework\obj\Debug\DelegateHomework.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\DelegateHomework\DelegateHomework\obj\Debug\DelegateHomework.exe
+C:\Users\Cavid\source\repos\DelegateHomework\DelegateHomework\obj\Debug\DelegateHomework.pdb
